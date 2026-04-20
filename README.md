@@ -12,7 +12,7 @@ This repository contains a reproducible coursework report (HTML export) for COVI
 
 ## How to view
 1. Click `COVID-19 Time Series Modelling.ipynb` in the repo
-2. Click **Download** (or “View raw” if available)
+2. Click **Download** 
 3. Open the downloaded file in any browser (Chrome/Safari)
 
 > Tip: If GitHub doesn’t render the HTML nicely, downloading and opening locally is the most reliable way.
